@@ -1,0 +1,25 @@
+{
+  "title": "Light Table: an interactive optics playground",
+  "description": "<p>Light Table is an interactive optics playground that runs in the browser. Users place light sources (white beam, point light, laser) and optical objects (prism, convex and concave lenses, diamond, soap bubbles) on a table and observe refraction, Fresnel reflection, total internal reflection, wavelength-dependent dispersion and thin-film interference in real time. Materials (water, crown glass, flint glass, diamond) use refractive indices and Abbe numbers with a Cauchy dispersion model. Rendering uses WebGL2 with progressive light accumulation. The interface is available in English (default) and Turkish.</p>",
+  "upload_type": "software",
+  "creators": [
+    {
+      "name": "Karatum, Mustafa"
+    }
+  ],
+  "license": "Apache-2.0",
+  "keywords": ["optics", "ray tracing", "dispersion", "refraction", "thin-film interference", "WebGL2", "physics simulation", "education"],
+  "language": "eng",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/pandakingpunc/light-table",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://github.com/avenoxai/sonnet-5.5-benchmarks",
+      "relation": "isDerivedFrom",
+      "scheme": "url"
+    }
+  ]
+}
